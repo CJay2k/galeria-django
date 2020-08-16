@@ -1,0 +1,5 @@
+Django==2.2.2
+Pillow
+django-allauth
+django-crispy-forms
+django-currentuser==0.4.0

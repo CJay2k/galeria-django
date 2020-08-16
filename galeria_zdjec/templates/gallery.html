@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block bar %}
+    Album użytkownika {{ u.username }}
+{% endblock %}
+
+
+{% block content %}
+
+    <div class="container">
+        {% for photo in photos %}
+
+            {% if photo.owner.lower == u.username.lower %}
+                {% if photo.image %}
+
+                    <img src='{{ photo.image.url }}' class="img-fluid" style="margin-bottom: 1%"/>
+
+                {% endif %}
+            {% endif %}
+
+        {% endfor %}
+    </div>
+
+{% endblock %}

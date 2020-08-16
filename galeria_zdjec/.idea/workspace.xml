@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1aa3c281-bd93-4608-ac50-0822a03c4f2f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="photos_photo: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://DATABASE/11dbda3c-5fdc-46b6-a63f-f698e5282bb1">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>11dbda3c-5fdc-46b6-a63f-f698e5282bb1</OriginalElement>
+              <nodes>
+                <node x="355.6" y="607.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group_permissions</node>
+                <node x="863.0" y="342.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp</node>
+                <node x="1068.0" y="331.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialaccount</node>
+                <node x="180.0" y="320.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_admin_log</node>
+                <node x="591.0" y="0.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user</node>
+                <node x="735.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.sqlite_sequence</node>
+                <node x="553.6" y="607.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_groups</node>
+                <node x="74.875" y="88.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_content_type</node>
+                <node x="533.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_session</node>
+                <node x="92.9779411764705" y="607.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_user_permissions</node>
+                <node x="1286.5" y="585.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailconfirmation</node>
+                <node x="456.6" y="386.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group</node>
+                <node x="0.0" y="364.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_permission</node>
+                <node x="0.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.photos_photo</node>
+                <node x="185.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.sqlite_master</node>
+                <node x="345.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_migrations</node>
+                <node x="1301.0" y="353.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailaddress</node>
+                <node x="975.8529411764705" y="574.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialtoken</node>
+                <node x="696.35" y="375.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_site</node>
+                <node x="709.6" y="607.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp_sites</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_admin_log" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+                  <point x="46.75" y="-102.0" />
+                  <point x="320.25" y="290.0" />
+                  <point x="606.4" y="290.0" />
+                  <point x="-61.60000000000002" y="135.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_user_permissions" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+                  <point x="51.5" y="-47.0" />
+                  <point x="247.4779411764705" y="554.0" />
+                  <point x="377.5" y="554.0" />
+                  <point x="377.5" y="300.0" />
+                  <point x="637.2" y="300.0" />
+                  <point x="-30.799999999999955" y="135.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_admin_log" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_content_type">
+                  <point x="-46.75" y="-102.0" />
+                  <point x="226.75" y="300.0" />
+                  <point x="192.625" y="300.0" />
+                  <point x="39.25" y="47.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialaccount" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+                  <point x="0.0" y="-91.0" />
+                  <point x="1174.5" y="300.0" />
+                  <point x="698.8" y="300.0" />
+                  <point x="30.799999999999955" y="135.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailaddress" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+                  <point x="0.0" y="-69.0" />
+                  <point x="1386.0" y="290.0" />
+                  <point x="729.6" y="290.0" />
+                  <point x="61.60000000000002" y="135.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_groups" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+                  <point x="34.0" y="-47.0" />
+                  <point x="655.6" y="300.0" />
+                  <point x="668.0" y="300.0" />
+                  <point x="0.0" y="135.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_groups" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group">
+                  <point x="-34.0" y="-47.0" />
+                  <point x="587.6" y="554.0" />
+                  <point x="554.1" y="554.0" />
+                  <point x="32.5" y="36.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp_sites" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_site">
+                  <point x="-56.75" y="-47.0" />
+                  <point x="0.0" y="47.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_user_permissions" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_permission">
+                  <point x="-51.5" y="-47.0" />
+                  <point x="144.4779411764705" y="554.0" />
+                  <point x="40.0" y="554.0" />
+                  <point x="-40.0" y="58.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp_sites" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp">
+                  <point x="56.75" y="-47.0" />
+                  <point x="879.85" y="554.0" />
+                  <point x="909.25" y="554.0" />
+                  <point x="-46.25" y="80.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialtoken" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp">
+                  <point x="-49.75" y="-80.0" />
+                  <point x="1025.6029411764705" y="554.0" />
+                  <point x="1001.75" y="554.0" />
+                  <point x="46.25" y="80.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailconfirmation" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailaddress">
+                  <point x="0.0" y="-69.0" />
+                  <point x="0.0" y="69.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group_permissions" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_permission">
+                  <point x="-44.5" y="-47.0" />
+                  <point x="400.1" y="544.0" />
+                  <point x="120.0" y="544.0" />
+                  <point x="40.0" y="58.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group_permissions" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group">
+                  <point x="44.5" y="-47.0" />
+                  <point x="-32.5" y="36.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_permission" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_content_type">
+                  <point x="0.0" y="-58.0" />
+                  <point x="80.0" y="300.0" />
+                  <point x="114.125" y="300.0" />
+                  <point x="-39.25" y="47.0" />
+                </edge>
+                <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialtoken" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialaccount">
+                  <point x="49.75" y="-80.0" />
+                  <point x="1125.1029411764705" y="554.0" />
+                  <point x="1174.5" y="554.0" />
+                  <point x="0.0" y="91.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.9029882604055496" x="634.8729464602296" y="471.84127171729114" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dd some information</find>
+      <find>bootstrap.min.c</find>
+      <find>album</find>
+      <find>AUTHENTICATION_BACKENDS</find>
+      <find>errors</find>
+      <find>login</find>
+      <find>menu</find>
+      <find>If you have not created an account yet, then pl</find>
+      <find>site_</find>
+      <find>body</find>
+      <find>form</find>
+      <find>href=&quot;/&quot;</find>
+      <find>dddd</find>
+      <find>href</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/photos/admin.py" />
+        <option value="$PROJECT_DIR$/templates/photo2.html" />
+        <option value="$PROJECT_DIR$/templates/bar.html" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/allauth/account/forms.py" />
+        <option value="$PROJECT_DIR$/photos/account/login.py" />
+        <option value="$PROJECT_DIR$/css/login.css" />
+        <option value="$PROJECT_DIR$/css/form.css" />
+        <option value="$PROJECT_DIR$/templates/account/login.html" />
+        <option value="$PROJECT_DIR$/templates/account/signup.html" />
+        <option value="$PROJECT_DIR$/templates/account/password_reset_from_key_done.html" />
+        <option value="$PROJECT_DIR$/templates/account/signup_closed.html" />
+        <option value="$PROJECT_DIR$/templates/account/verification_sent.html" />
+        <option value="$PROJECT_DIR$/templates/account/verified_email_required.html" />
+        <option value="$PROJECT_DIR$/templates/account/password_reset_done.html" />
+        <option value="$PROJECT_DIR$/templates/account/account_inactive.html" />
+        <option value="$PROJECT_DIR$/templates/add_photo.html" />
+        <option value="$PROJECT_DIR$/templates/account/email.html" />
+        <option value="$PROJECT_DIR$/templates/account/email_confirm.html" />
+        <option value="$PROJECT_DIR$/templates/account/logout.html" />
+        <option value="$PROJECT_DIR$/templates/account/password_change.html" />
+        <option value="$PROJECT_DIR$/templates/account/password_reset.html" />
+        <option value="$PROJECT_DIR$/templates/account/password_reset_from_key.html" />
+        <option value="$PROJECT_DIR$/templates/account/password_set.html" />
+        <option value="$PROJECT_DIR$/middleware/test.py" />
+        <option value="$PROJECT_DIR$/photos/forms.py" />
+        <option value="$PROJECT_DIR$/templates/photo.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/gallery.html" />
+        <option value="$PROJECT_DIR$/templates/delete_photo.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/galeria_zdjec/settings.py" />
+        <option value="$PROJECT_DIR$/photos/models.py" />
+        <option value="$PROJECT_DIR$/photos/views.py" />
+        <option value="$PROJECT_DIR$/galeria_zdjec/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-3" />
+    <option name="y" value="356" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="galeria_zdjec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="galeria_zdjec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="galeria_zdjec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="galeria_zdjec" type="462c0819:PsiDirectoryNode" />
+              <item name="galeria_zdjec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="galeria_zdjec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="galeria_zdjec" type="462c0819:PsiDirectoryNode" />
+              <item name="photos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="galeria_zdjec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="galeria_zdjec" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="galeria_zdjec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CJay\PycharmProjects\galeria_zdjec\templates" />
+      <recent name="C:\Users\CJay\PycharmProjects\galeria_zdjec\templates\account" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="galeria_zdjec" type="Python.DjangoServer" factoryName="Django server">
+      <module name="galeria_zdjec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="galeria_zdjec.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aa3c281-bd93-4608-ac50-0822a03c4f2f" name="Default Changelist" comment="" />
+      <created>1559789767829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559789767829</updated>
+      <workItem from="1559789837994" duration="6610000" />
+      <workItem from="1559930062068" duration="621000" />
+      <workItem from="1559991140062" duration="35058000" />
+      <workItem from="1560077939081" duration="26211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68500000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.33261105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.33261105" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.32502708" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" weight="0.1444563" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49946696" visible="true" weight="0.33261105" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.33261105" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49946696" weight="0.32502708" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.1444563" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/login.css" />
+    <entry file="file://$PROJECT_DIR$/css/form.css" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/allauth/templates/account/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/allauth/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/allauth/account/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="70" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/allauth/account/adapter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6885">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/add_photo.html.html" />
+    <entry file="file://$PROJECT_DIR$/photos/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photos/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/allauth/account/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="213" column="12" selection-start-line="213" selection-start-column="12" selection-end-line="213" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#9648#13749#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/allauth/templates/account/signup.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/account_inactive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/base.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/email_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/logout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/password_change.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/password_reset_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/password_reset_from_key.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/password_reset_from_key_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/password_set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/signup_closed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/verification_sent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/verified_email_required.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/wsgiref/simple_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://11dbda3c-5fdc-46b6-a63f-f698e5282bb1/collation/RTRIM">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://11dbda3c-5fdc-46b6-a63f-f698e5282bb1/collation/NOCASE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://11dbda3c-5fdc-46b6-a63f-f698e5282bb1/collation/BINARY">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/11dbda3c-5fdc-46b6-a63f-f698e5282bb1/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="e#1#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/checks/registry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-823">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/password_reset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/forms/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="266" column="37" selection-start-line="266" selection-start-column="37" selection-end-line="266" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="909" column="8" selection-start-line="909" selection-start-column="8" selection-end-line="909" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://11dbda3c-5fdc-46b6-a63f-f698e5282bb1/schema/main/table/photos_photo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <element signature="e#503#528#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/delete_photo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#528#553#0#HTML" expanded="true" />
+            <element signature="e#821#944#0#HTML" expanded="true" />
+            <element signature="e#1218#1260#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#451#476#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galeria_zdjec/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#637#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galeria_zdjec/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="138" column="25" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photos/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photos/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photos/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photos/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photos/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="56" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="96" column="22" lean-forward="true" selection-start-line="94" selection-start-column="8" selection-end-line="96" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/add_photo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/11dbda3c-5fdc-46b6-a63f-f698e5282bb1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>11dbda3c-5fdc-46b6-a63f-f698e5282bb1</OriginalElement>
+          <nodes>
+            <node x="355.6" y="607.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group_permissions</node>
+            <node x="863.0" y="342.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp</node>
+            <node x="1068.0" y="331.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialaccount</node>
+            <node x="180.0" y="320.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_admin_log</node>
+            <node x="591.0" y="0.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user</node>
+            <node x="735.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.sqlite_sequence</node>
+            <node x="553.6" y="607.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_groups</node>
+            <node x="74.875" y="88.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_content_type</node>
+            <node x="533.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_session</node>
+            <node x="92.9779411764705" y="607.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_user_permissions</node>
+            <node x="1286.5" y="585.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailconfirmation</node>
+            <node x="456.6" y="386.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group</node>
+            <node x="0.0" y="364.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_permission</node>
+            <node x="0.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.photos_photo</node>
+            <node x="185.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.sqlite_master</node>
+            <node x="345.0" y="779.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_migrations</node>
+            <node x="1301.0" y="353.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailaddress</node>
+            <node x="975.8529411764705" y="574.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialtoken</node>
+            <node x="696.35" y="375.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_site</node>
+            <node x="709.6" y="607.0">11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp_sites</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_admin_log" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+              <point x="46.75" y="-102.0" />
+              <point x="320.25" y="290.0" />
+              <point x="606.4" y="290.0" />
+              <point x="-61.60000000000002" y="135.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_user_permissions" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+              <point x="51.5" y="-47.0" />
+              <point x="247.4779411764705" y="554.0" />
+              <point x="377.5" y="554.0" />
+              <point x="377.5" y="300.0" />
+              <point x="637.2" y="300.0" />
+              <point x="-30.799999999999955" y="135.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_admin_log" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_content_type">
+              <point x="-46.75" y="-102.0" />
+              <point x="226.75" y="300.0" />
+              <point x="192.625" y="300.0" />
+              <point x="39.25" y="47.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialaccount" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+              <point x="0.0" y="-91.0" />
+              <point x="1174.5" y="300.0" />
+              <point x="698.8" y="300.0" />
+              <point x="30.799999999999955" y="135.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailaddress" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+              <point x="0.0" y="-69.0" />
+              <point x="1386.0" y="290.0" />
+              <point x="729.6" y="290.0" />
+              <point x="61.60000000000002" y="135.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_groups" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user">
+              <point x="34.0" y="-47.0" />
+              <point x="655.6" y="300.0" />
+              <point x="668.0" y="300.0" />
+              <point x="0.0" y="135.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_groups" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group">
+              <point x="-34.0" y="-47.0" />
+              <point x="587.6" y="554.0" />
+              <point x="554.1" y="554.0" />
+              <point x="32.5" y="36.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp_sites" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_site">
+              <point x="-56.75" y="-47.0" />
+              <point x="0.0" y="47.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_user_user_permissions" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_permission">
+              <point x="-51.5" y="-47.0" />
+              <point x="144.4779411764705" y="554.0" />
+              <point x="40.0" y="554.0" />
+              <point x="-40.0" y="58.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp_sites" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp">
+              <point x="56.75" y="-47.0" />
+              <point x="879.85" y="554.0" />
+              <point x="909.25" y="554.0" />
+              <point x="-46.25" y="80.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialtoken" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialapp">
+              <point x="-49.75" y="-80.0" />
+              <point x="1025.6029411764705" y="554.0" />
+              <point x="1001.75" y="554.0" />
+              <point x="46.25" y="80.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailconfirmation" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.account_emailaddress">
+              <point x="0.0" y="-69.0" />
+              <point x="0.0" y="69.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group_permissions" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_permission">
+              <point x="-44.5" y="-47.0" />
+              <point x="400.1" y="544.0" />
+              <point x="120.0" y="544.0" />
+              <point x="40.0" y="58.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group_permissions" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_group">
+              <point x="44.5" y="-47.0" />
+              <point x="-32.5" y="36.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.auth_permission" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.django_content_type">
+              <point x="0.0" y="-58.0" />
+              <point x="80.0" y="300.0" />
+              <point x="114.125" y="300.0" />
+              <point x="-39.25" y="47.0" />
+            </edge>
+            <edge source="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialtoken" target="11dbda3c-5fdc-46b6-a63f-f698e5282bb1.TABLE:main.socialaccount_socialaccount">
+              <point x="49.75" y="-80.0" />
+              <point x="1125.1029411764705" y="554.0" />
+              <point x="1174.5" y="554.0" />
+              <point x="0.0" y="91.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9029882604055496" x="634.8729464602296" y="471.84127171729114" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
